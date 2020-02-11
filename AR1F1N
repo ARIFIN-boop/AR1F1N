@@ -1,6 +1,5 @@
 #!/bin/bash
 #Silahkan di recode :)
-#Jangan Lupa Subscribe MaulanaRyM
 
 #Variables
 b="\033[1m"
